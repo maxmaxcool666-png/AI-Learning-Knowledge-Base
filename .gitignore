@@ -1,0 +1,42 @@
+# Private local source materials
+/local-private/
+
+# Windows 與 macOS 系統檔案
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# 編輯器暫存與備份檔案
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.orig
+~$*
+
+# 暫存目錄與記錄檔
+.cache/
+tmp/
+temp/
+*.log
+
+# 本機環境變數與秘密設定
+.env
+.env.*
+!.env.example
+
+# Private AI source inventory and working drafts
+/90-Inbox/*
+!/90-Inbox/.gitkeep
+
+# Common private credentials and certificates
+*.pem
+*.key
+*.p12
+*.pfx
