@@ -5,6 +5,7 @@
 | 筆記名稱 | 所屬分類 | 來源平台 | 驗證狀態 | 最後更新日期 | 筆記連結 |
 | --- | --- | --- | --- | --- | --- |
 | Git 基礎操作與安全提交流程 | 04-Git-GitHub | CHATGPT-01、CHATGPT-02、CODEX-01 | 部分驗證 | 2026-10-17 | [Git 基礎操作與安全提交流程](../04-Git-GitHub/git-basics-and-safe-commit.md) |
+| GitHub Pages 部署與驗收 | 04-Git-GitHub | CHATGPT-01、CHATGPT-02、CODEX-01 | 部分驗證 | 2026-10-19 | [GitHub Pages 部署與驗收](../04-Git-GitHub/github-pages-deployment-and-verification.md) |
 
 ## 維護方式
 
