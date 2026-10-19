@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Git 基礎操作與安全提交流程 | 04-Git-GitHub | CHATGPT-01、CHATGPT-02、CODEX-01 | 部分驗證 | 2026-10-17 | [Git 基礎操作與安全提交流程](../04-Git-GitHub/git-basics-and-safe-commit.md) |
 | GitHub Pages 部署與驗收 | 04-Git-GitHub | CHATGPT-01、CHATGPT-02、CODEX-01 | 部分驗證 | 2026-10-19 | [GitHub Pages 部署與驗收](../04-Git-GitHub/github-pages-deployment-and-verification.md) |
+| Codex 協作開發與安全修改流程 | 01-AI-Tools | CHATGPT-01、CHATGPT-02、CODEX-01 | 部分驗證 | 2026-10-19 | [Codex 協作開發與安全修改流程](../01-AI-Tools/codex-collaborative-development-and-safe-editing.md) |
 
 ## 維護方式
 
