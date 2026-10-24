@@ -2,7 +2,7 @@
 
 這是一個長期維護的個人 AI 技術知識庫，將 AI 討論、技術學習、實際操作與問題排除的成果，整理成具有長期參考價值的 Markdown 筆記。
 
-目前已建立三篇正式技術筆記：第一篇[Git 基礎操作與安全提交流程](04-Git-GitHub/git-basics-and-safe-commit.md)，以及第二篇[GitHub Pages 部署與驗收](04-Git-GitHub/github-pages-deployment-and-verification.md)，以及第三篇[Codex 協作開發與安全修改流程](01-AI-Tools/codex-collaborative-development-and-safe-editing.md)，三篇驗證狀態均為「部分驗證」。分類架構、知識管理文件與忽略規則已建立，未匯入原始對話資料。
+目前已建立四篇正式技術筆記：第一篇[Git 基礎操作與安全提交流程](04-Git-GitHub/git-basics-and-safe-commit.md)，以及第二篇[GitHub Pages 部署與驗收](04-Git-GitHub/github-pages-deployment-and-verification.md)，以及第三篇[Codex 協作開發與安全修改流程](01-AI-Tools/codex-collaborative-development-and-safe-editing.md)，以及第四篇[網站響應式設計（RWD）與無障礙設計（A11y）](03-Web-Development/responsive-web-design-and-accessibility.md)，四篇驗證狀態均為「部分驗證」。分類架構、知識管理文件與忽略規則已建立，未匯入原始對話資料。
 
 ## 公開範圍與本機私人資料
 
